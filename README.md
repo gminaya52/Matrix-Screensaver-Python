@@ -1,5 +1,7 @@
 # Matrix-Screensaver-Python
+
 Salvapantallas tipo Matrix escrito en Python
+
 El código genera un protector de pantalla al estilo de la película Matrix. ideal para no tener que instalar programas de terceros pesados que pueden no funcionar correctamente.
 
 Se requiere que tengas instalado los módulos pygame, random, os, ctypes, ya que esta versión es ideal si tienes varios monitores, reconoce toda la extensión.
